@@ -1,0 +1,23 @@
+{
+  "name": "bootsrap-scss-bem-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruslan3220/bootsrap-scss-bem-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruslan3220/bootsrap-scss-bem-starter/issues"
+  },
+  "homepage": "https://github.com/ruslan3220/bootsrap-scss-bem-starter#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
